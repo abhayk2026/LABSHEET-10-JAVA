@@ -1,0 +1,72 @@
+MCA203P Lab Sheet 10 - ACTUAL SAMPLE OUTPUTS
+Generated from successful javac/java runs. Environment-dependent output may differ.
+========================================================================
+
+>>> java Q01_StudentArrayList
+Before removal:
+1 - Asha
+2 - Ravi
+3 - Neha
+After removal:
+1 - Asha
+3 - Neha
+
+>>> java Q02_EmployeeLinkedList
+ID: 101, Name: Riya
+ID: 102, Name: Aman
+ID: 103, Name: Sara
+Search result:
+ID: 102, Name: Aman
+
+>>> java Q03_BookHashSet
+Added first book? true
+Added second book? true
+Added duplicate ID? false
+1: Java Basics by A. Kumar
+2: Data Structures by B. Singh
+
+>>> java Q04_ProductTreeSet
+Products sorted by price:
+4 - Notebook - Rs 80.00
+3 - USB Cable - Rs 200.00
+1 - Mouse - Rs 500.00
+2 - Keyboard - Rs 850.00
+5 - Pen Drive - Rs 850.00
+
+>>> java Q05_StudentHashMap
+All students:
+Roll: 101, Name: Asha
+Roll: 102, Name: Ravi
+Roll: 103, Name: Neha
+After removing roll 102:
+Roll: 101, Name: Asha
+Roll: 103, Name: Neha
+
+>>> java Q06_ShapeCircleArrayList
+Circle 1 area: 12.57
+Circle 2 area: 28.27
+Circle 3 area: 78.54
+
+>>> java Q07_CustomerVector
+1: Asha <asha@example.com>
+2: Ravi <ravi.new@example.com>
+
+>>> java Q08_TaskStack
+Added: 1 - Write code
+Added: 2 - Test code
+Added: 3 - Prepare report
+Completed: 3 - Prepare report
+Remaining tasks: [1 - Write code, 2 - Test code]
+
+>>> java Q09_PatientQueue
+Serving: 1 - Asha
+Serving: 2 - Ravi
+Serving: 3 - Neha
+Nobody is waiting
+
+>>> java Q10_DepartmentTeacherMap
+Department: Computer Science
+  101 - Dr. Asha
+  102 - Dr. Ravi
+Department: Mathematics
+  201 - Dr. Neha
